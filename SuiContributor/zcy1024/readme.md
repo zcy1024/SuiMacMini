@@ -1,0 +1,3 @@
+# 贡献跟踪表
+
+- [use `waitForTransaction` instead of `setTimeout`](https://github.com/MystenLabs/sui/pull/22406)
