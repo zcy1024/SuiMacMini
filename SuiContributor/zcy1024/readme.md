@@ -9,3 +9,4 @@
 - [Fix comment and logic errors](https://github.com/MystenLabs/sui/pull/22463)
 - [Remove unnecessary prompts - 2](https://github.com/MystenLabs/sui/pull/22464)
 - [Fix code errors in `labeled-control-flow.md`](https://github.com/MystenLabs/sui/pull/22473)
+- [`has` not `as`](https://github.com/MystenLabs/sui/pull/22503)
