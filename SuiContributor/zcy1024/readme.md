@@ -1,5 +1,10 @@
 # 贡献跟踪表
 
+## 2025.07
+
+- [Remove unnecessary prompts](https://github.com/MystenLabs/sui/pull/22469)
+- [Make annotations more accurate](https://github.com/MystenLabs/sui/pull/22547)
+
 ## 2025.06
 
 - [use `waitForTransaction` instead of `setTimeout`](https://github.com/MystenLabs/sui/pull/22406)
