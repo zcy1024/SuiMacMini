@@ -8,3 +8,4 @@
 ## 七月
 ### 代码贡献
 1. https://github.com/MystenLabs/suiup/pull/56
+2. https://github.com/block-vision/sui-go-sdk/pull/63
