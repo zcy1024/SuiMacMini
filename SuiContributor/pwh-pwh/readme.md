@@ -9,3 +9,4 @@
 ### 代码贡献
 1. https://github.com/MystenLabs/suiup/pull/56
 2. https://github.com/block-vision/sui-go-sdk/pull/63
+3. https://github.com/hoh-zone/Nextjs-Sui-Dapp-Template/pull/16
