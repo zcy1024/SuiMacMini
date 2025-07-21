@@ -10,3 +10,4 @@
 * [1.增加表格输出优化命令输出结果显示2.增加md5检查下载文件完整性](https://github.com/MystenLabs/suiup/pull/56)
 * [项目构建增加git初始化操作](https://github.com/hoh-zone/Nextjs-Sui-Dapp-Template/pull/16)
 * [add NewSignerWithSecretKey function for ed25519 private key support ](https://github.com/block-vision/sui-go-sdk/pull/63)
+* [fix: duplicate error check and unmarshal](https://github.com/block-vision/sui-go-sdk/pull/66)
