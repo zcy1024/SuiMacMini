@@ -11,5 +11,6 @@
 * [项目构建增加git初始化操作](https://github.com/hoh-zone/Nextjs-Sui-Dapp-Template/pull/16)
 * [add Dockerfile for building and running Next.js application](https://github.com/hoh-zone/Nextjs-Sui-Dapp-Template/pull/17)
 * [add Jest configuration and testing dependencies](https://github.com/hoh-zone/Nextjs-Sui-Dapp-Template/pull/19)
+* [fix(docs): correct typos, grammar, and formatting in Node Tools guide](https://github.com/MystenLabs/sui/pull/22863)
 * [add NewSignerWithSecretKey function for ed25519 private key support ](https://github.com/block-vision/sui-go-sdk/pull/63)
 * [fix: duplicate error check and unmarshal](https://github.com/block-vision/sui-go-sdk/pull/66)
