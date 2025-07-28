@@ -10,6 +10,8 @@
 * [1.增加表格输出优化命令输出结果显示2.增加md5检查下载文件完整性](https://github.com/MystenLabs/suiup/pull/56)
 * [feat: Add suiup doctor command for environment diagnostics](https://github.com/MystenLabs/suiup/pull/71)
 * [add doctor command doc](https://github.com/MystenLabs/suiup/pull/80)
+* [feat(watch): 实现 watch 模式以自动检查练习](https://github.com/hoh-zone/movelings/pull/2)
+* [使用clap和模块重构应用结构,使用colored crate增强终端输出，提高可读性](https://github.com/hoh-zone/movelings/pull/3)
 * [项目构建增加git初始化操作](https://github.com/hoh-zone/Nextjs-Sui-Dapp-Template/pull/16)
 * [add Dockerfile for building and running Next.js application](https://github.com/hoh-zone/Nextjs-Sui-Dapp-Template/pull/17)
 * [add Jest configuration and testing dependencies](https://github.com/hoh-zone/Nextjs-Sui-Dapp-Template/pull/19)
