@@ -6,3 +6,4 @@
 - [sui-chain-monitor](https://github.com/HETAOSAMA/sui-chain-monitor)
 - [Initialize Rust CLI and add first Move exercise](https://github.com/hoh-zone/movelings/pull/1)
 - [CLI bug fixed,README content fixed,added exercise 00-07](https://github.com/hoh-zone/movelings/pull/4)
+- [added exercise 08-12](https://github.com/hoh-zone/movelings/pull/6)
