@@ -19,6 +19,7 @@
 - [Optimize code format](https://github.com/MystenLabs/move-book/pull/170)
 - [Optimize link redirection](https://github.com/MystenLabs/move-book/pull/172)
 - [Added example about Account Owner](https://github.com/MystenLabs/move-book/pull/177)
+- [Added an example of using Clock in the test file](https://github.com/MystenLabs/move-book/pull/178)
 - [Misspellings or repeated words](https://github.com/MystenLabs/move-book/pull/179)
 
 ## 2025.06
