@@ -27,3 +27,4 @@
 * [fix balance_manager_tests args](https://github.com/hoh-zone/sui-deepbookv3/pull/9)
 * [Fix/custom owner function](https://github.com/hoh-zone/sui-deepbookv3/pull/10)
 * [update pool](https://github.com/hoh-zone/sui-deepbookv3/pull/11)
+* [add adjust_tick_size and adjust_min_lot_size support](https://github.com/hoh-zone/sui-deepbookv3/pull/12)
