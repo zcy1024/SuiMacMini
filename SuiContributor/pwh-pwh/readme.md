@@ -29,3 +29,4 @@
 * [update pool](https://github.com/hoh-zone/sui-deepbookv3/pull/11)
 * [add adjust_tick_size and adjust_min_lot_size support](https://github.com/hoh-zone/sui-deepbookv3/pull/12)
 * [rename Event field to Type in MoveEventModule](https://github.com/block-vision/sui-go-sdk/pull/69)
+* [walrus_rs](https://github.com/pwh-pwh/walrus_rs)
