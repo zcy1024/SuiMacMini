@@ -2,6 +2,10 @@
 
 ## 2025.09 - 2025.11
 
+### MystenLabs/ts-sdks
+
+- [Improve docs && add `Random` address constant](https://github.com/MystenLabs/ts-sdks/pull/581)
+
 ### MystenLabs/move-book
 
 - [format code, assert and macro](https://github.com/MystenLabs/move-book/pull/185)
