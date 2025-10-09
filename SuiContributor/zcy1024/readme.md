@@ -1,10 +1,12 @@
 # 贡献跟踪表
 
-## 2025.09 - 2025.11
+## 2025.10
 
 ### MystenLabs/ts-sdks
 
 - [Improve docs && add `Random` address constant](https://github.com/MystenLabs/ts-sdks/pull/581)
+
+## 2025.09
 
 ### MystenLabs/move-book
 
