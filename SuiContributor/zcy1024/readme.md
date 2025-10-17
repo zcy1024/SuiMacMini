@@ -5,6 +5,7 @@
 ### MystenLabs/ts-sdks
 
 - [Improve docs && add `Random` address constant](https://github.com/MystenLabs/ts-sdks/pull/581)
+- [Document details and function return values](https://github.com/MystenLabs/ts-sdks/pull/609)
 
 ## 2025.09
 
