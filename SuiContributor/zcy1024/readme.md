@@ -1,5 +1,19 @@
 # 贡献跟踪表
 
+## 2025.11
+
+### MystenLabs/sui
+
+- mentioned => [framework add error code](https://github.com/MystenLabs/sui/pull/24077)
+
+### MystenLabs/ts-sdks
+
+- [Spelling, comments, and code issues](https://github.com/MystenLabs/ts-sdks/pull/657)
+
+### MystenLabs/sui-move-bootcamp
+
+- [Update A4 to new syntax](https://github.com/MystenLabs/sui-move-bootcamp/pull/23)
+
 ## 2025.10
 
 ### MystenLabs/ts-sdks
