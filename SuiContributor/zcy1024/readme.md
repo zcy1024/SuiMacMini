@@ -1,5 +1,11 @@
 # 贡献跟踪表
 
+## 2025.12
+
+### MystenLabs/sui-move-bootcamp
+
+- [Should this be set to `true`](https://github.com/MystenLabs/sui-move-bootcamp/pull/28)
+
 ## 2025.11
 
 ### MystenLabs/sui
